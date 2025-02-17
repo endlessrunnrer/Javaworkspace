@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyselfLearningJava/2-04value/2-04value.iml" filepath="$PROJECT_DIR$/MyselfLearningJava/2-04value/2-04value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javaworkspace.iml" filepath="$PROJECT_DIR$/Javaworkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyselfLearningJava/MyselfLearningJava.iml" filepath="$PROJECT_DIR$/MyselfLearningJava/MyselfLearningJava.iml" />
+    </modules>
+  </component>
+</project>
